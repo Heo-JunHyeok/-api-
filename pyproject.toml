@@ -10,6 +10,7 @@ packages = [{include = "movie_api"}]
 python = "^3.8"
 django = "^4.1.6"
 djangorestframework = "^3.14.0"
+django-dotenv = "^1.4.2"
 
 
 [tool.poetry.group.dev.dependencies]
